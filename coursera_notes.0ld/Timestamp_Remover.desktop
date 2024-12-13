@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Coursera Timestamp Remover
+Comment=Application to remove timestamps from text
+Exec=bash -c '/home/garner/anaconda3/bin/python "/home/garner/code/coursera_notes_apps/remove_timestamps.py"'
+Icon=accessories-text-editor
+Terminal=false
+Type=Application
+Categories=Utility;TextTools;

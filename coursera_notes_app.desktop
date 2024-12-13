@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Coursera Notes App
+Comment=Convert HTML to Markdown with code block handling & remove timestamps from text
+Exec=bash -c 'python "/path/to/coursera_notes_app.py"'
+Icon=accessories-text-editor
+Terminal=false
+Categories=Utility;TextTools;

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=HTML to Markdown Converter
+Comment=Convert HTML to Markdown with code block handling
+Exec=bash -c '/home/garner/anaconda3/bin/python "/home/garner/code/coursera_notes_apps/html_to_markdown_GUI.py"'
+Icon=accessories-text-editor
+Terminal=false
+Categories=Utility;TextTools;
